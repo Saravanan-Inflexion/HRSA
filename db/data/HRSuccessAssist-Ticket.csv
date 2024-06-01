@@ -1,0 +1,6 @@
+ID;title;description;status_ID;priority;reportedBy;createdOn;closedOn;responder
+74825b40-ede4-4f71-be4e-ccf85306c9a3;System Error;The system is not responding;74825b40-ede4-4f71-be4e-ccf85306c9a3;High;John Doe;2021-06-27T00:00:00Z;2021-06-28T00:00:00Z;Jane Smith
+7c77f4dd-e82d-48d1-8412-de82e57d2365;Login Issue;Unable to login to the system;7c77f4dd-e82d-48d1-8412-de82e57d2365;Medium;Alice Johnson;2021-06-27T00:00:00Z;2021-06-28T00:00:00Z;Bob Williams
+875a32fe-9868-4ec5-9505-4176fcd6d512;Software Update;Software update required;875a32fe-9868-4ec5-9505-4176fcd6d512;Low;Charlie Brown;2021-06-27T00:00:00Z;2021-06-28T00:00:00Z;Emily Davis
+25ce8fa8-f8a6-4fa5-9291-2b39e982971c;Hardware Issue;The printer is not working;25ce8fa8-f8a6-4fa5-9291-2b39e982971c;High;David Wilson;2021-06-27T00:00:00Z;2021-06-28T00:00:00Z;Sophia Martinez
+26803b77-0f31-4183-9fb4-1400ffb2073f;Network Problem;Internet connection is unstable;26803b77-0f31-4183-9fb4-1400ffb2073f;Medium;Emma Thomas;2021-06-27T00:00:00Z;2021-06-28T00:00:00Z;Oliver Jackson

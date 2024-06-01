@@ -1,0 +1,4 @@
+ID;ticketID;title;description;priority;reportedBy;createdOn;closedOn;responder;status;solutions
+74825b40-ede4-4f71-be4e-ccf85306c9a3;7321ff6f-230a-4a8a-ba8c-b154e453ba76;Ticket 1;This is a description for ticket 1;High;John Doe;2022-01-01T00:00:00Z;;Jane Doe;7c77f4dd-e82d-48d1-8412-de82e57d2365;
+875a32fe-9868-4ec5-9505-4176fcd6d512;2b39e982971c-4fa5-9291-2b39e982971c;Ticket 2;This is a description for ticket 2;Medium;Alice Smith;2022-01-02T00:00:00Z;;Bob Smith;25ce8fa8-f8a6-4fa5-9291-2b39e982971c;
+26803b77-0f31-4183-9fb4-1400ffb2073f;1400ffb2073f-0f31-4183-9fb4-1400ffb2073f;Ticket 3;This is a description for ticket 3;Low;Charlie Brown;2022-01-03T00:00:00Z;;Lucy Van Pelt;26803b77-0f31-4183-9fb4-1400ffb2073f;
